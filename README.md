@@ -1,28 +1,49 @@
-# Bienvenue sur GaraMail !
+#Conception et développement d’un Feu Tricolore Intelligent
+Ce projet représente une amélioration des Feux tricolores  traditionnels. 
+Son objectif principal est le développement d’un système qui permet le contrôle des feux tricolores à distance
 
-![Garamail](https://github.com/doha-doha/pfe/blob/master/streetred.jpg)
+## Pour commencer
+essayer d'installer tous les logiciels ou les bibliotheque naicessaire pour bien demmarer ce projet 
+### Pré-requis
+voillez installer l'environement du travail 
+anaconda
+python opencv
+wampserver 
+arduino ide
+proteus
+sublime text
 
-## Lien des consignes
-[https://github.com/becodeorg/BXLAnderlecht/blob/master/08-AJAX/php-chat.md](https://github.com/becodeorg/BXLAnderlecht/blob/master/08-AJAX/php-chat.md)
 
-## Langages utilisés ?
+### Installation 
+voila les reference pour aidez vous d installer l environnement du travail
 
-+ HTML5, CSS3
-+ JavaScript, jQuery, AJAX
+
+## Démarrage
+avant de commencer suivez les etapes suivantes :
+*installer l'envirenement
+*execute le fichier [test.py](hhh)
+*importer les 4 fichiers qui donne le code python dans la carte sd 
+*compiler le code arduino qui existe dans le fichier [python.ino]()
+*lancer la simulation avec proteus le fichier est [trrafic.dd]() 
+*creer une base de donnee nome projet 
+et copier  [ce script](https://i.imgur.com/GYTttJ5.png)
+
+
+## languages et frame worke
+
++ python,opencv
++ arduino
++ HTML5, CSS3,bootstrap
++ JavaScript, jQuery
 + PHP, MySQL ( avec tables relationnelles )
 
-![Tables relations](https://i.imgur.com/GYTttJ5.png)
+## Auteurs
+*Doha Bouhaj
+*ghita ghaffari
+*soukaina el kamel
+## remercirement 
+jdjkdk
+sjjs
+s
 
-## Responsive ?
 
-Oui, il est responsive!
-
-## A venir
-
-Tout _**pleiiiiiiiiiiiiiiiiiiiiiiiiiins**_ de fonctionnalités qui arriveront d'ici peu! Les conversations privées, les smileys, la possibilité de gérer son statut,... 
-
-## Screenshots 
-
-![Connexion](https://i.imgur.com/BxP73v9.png)
-
-![Screenshot chat](https://i.imgur.com/AyQYan5.png)
