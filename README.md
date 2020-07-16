@@ -2,6 +2,7 @@
 Ce projet représente une amélioration des Feux tricolores  traditionnels. 
 Son objectif principal est le développement d’un système qui permet le contrôle des feux tricolores à distance
 <div>
+  <div style="width:150;"></div> 
 <img src="https://github.com/doha-doha/pfe/blob/master/z.PNG" width="300" height="200" />
 <img src="https://github.com/doha-doha/pfe/blob/master/x.PNG" width="300" height="200" />
 </div>
@@ -11,6 +12,7 @@ Son objectif principal est le développement d’un système qui permet le contr
 <img src="https://github.com/doha-doha/pfe/blob/master/c.PNG" width="300" height="200" />
 </div>
 <div>
+  <div style="width:150;"></div>   
 <img src="https://github.com/doha-doha/pfe/blob/master/d.PNG" width="300" height="200" />
 <img src="https://github.com/doha-doha/pfe/blob/master/e.PNG" width="300" height="200" />
 </div>
