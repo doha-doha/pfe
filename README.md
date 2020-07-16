@@ -17,19 +17,19 @@ Son objectif principal est le développement d’un système qui permet le contr
 
 ## Pour commencer
 
-Essayez d'installer tous les logiciels ou les bibliothèques nécessaires pour commencer avec
-ce projet .
+Tout d'abord Essayez d'installer tous les logiciels ou les bibliothèques nécessaires
 
 ### Pré-requis
+Assurez-vous que vous avez installé toutes les conditions préalables suivantes sur votre machine de développement:
 
-La première chose à faire est d'installer l'environnement de travail :
-
-+  Anaconda3                  
-+  python 3.6.10/OpenCV 4.1.1
-+  Wampserver 3.1.9
-+  Arduino Ide 1.8.13
-+  proteus 8 professional
-+  Sublime Text V3
++ L'installation qui fait l'objet de ce tutoriel est réalisée sur un système Windows 10 Pro 64 bits.
++ Téléchargez et installez l'environnement de travail :
+	+  Anaconda3                  
+	+  python 3.6.10/OpenCV 4.1.1
+	+  Wampserver 3.1.9
+	+  Arduino Ide 1.8.13
+	+  proteus 8 professional
+	+  Sublime Text V3
 
 
 ### Installation 
@@ -45,9 +45,8 @@ Voici les références pour vous aider à installer l'environnement de travail :
 
 ## Démarrage
 
-avant de commencer, procédez comme suit:
+On a préparé le terrain jusqu'ici, maintenant procédez comme suit :
 
-+ installer l'environnement de travail
 + exécuter le fichier [test.py](hhh)
 + importer les 4 fichiers qui donnent le code python dans la carte sd
 + compiler le code arduino qui existe dans le fichier [python.ino]()
@@ -56,6 +55,7 @@ avant de commencer, procédez comme suit:
 
 
 ## languages et FrameWorks
+
 voici les langages et les frameworks utilisés dans ce projet :
 
 + Python 3.6.10/OpenCV 4.1.1
@@ -65,9 +65,11 @@ voici les langages et les frameworks utilisés dans ce projet :
 + PHP 7.2, MySQL ( avec tables relationnelles )
 
 ## Auteurs
+
 + Doha Bouhaj
 + ghita ghaffari
 + soukaina el kamel
+
 ## Remerciement 
 
 Nous tenons à remercier vivement Mr El Habib Ben Lahmar ,Mme Fagroud Fatima Zahra ,et tous les professeurs et le personnel de la Faculté des Sciences Ben M’SIK .
